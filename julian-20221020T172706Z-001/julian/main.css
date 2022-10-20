@@ -1,0 +1,112 @@
+
+body{
+    background-image: url("img/SLA.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+div.cor{
+    background-color: orange;
+    width: 40%;
+    right: 50%;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+div.cores{
+    background-color: orange;
+    width: 40%;
+    border: 3px solid #ff8800;
+    padding: 10px;
+}
+div.cor2{
+    background-color: lime;
+    width: 30%;
+}
+div.cor3{
+    color: gray;
+    background-color: #242424;
+    margin: 0%;
+}
+div.cor4{
+    background-color: orange;
+    border: 4px solid lime;
+}
+div.cor5{
+    background-color: white;
+    margin: 0%;
+}
+h1.Verde{
+    color: green;
+}
+h2.cor{
+    color: #ff7b00;
+}
+h2.back{
+    background-color: #ff7b00;
+    border: 4px solid green;
+    width:  21%;
+}
+img.bomdia{
+    border: 3px solid green;
+}
+img.boanoite{
+    border: 3px solid green;
+    width: 50px;
+    height: 50px;
+}
+p.color{
+    background-color: white;
+    width: 20%;
+}
+a{
+    font-size: 18pt;
+    text-indent: 4cm;
+    background-color: green;
+}
+a:link{
+    color: orange;
+}
+a:visited{
+    color: lime;
+}
+a:hover{
+    color: yellow;
+}
+a:active{
+    color: red;
+}
+label{
+    color: green;
+}
+select{
+    color: green;
+}
+table,tr,th,td{
+    color: orangered;
+border-bottom: solid #2e2a2a 1px;
+border-collapse: collapse;
+padding: 2px;
+padding-left: 8px;
+padding-right: 8px;
+}
+table {width: 50%;}
+th{
+    color: white;
+    height: 25px;
+    background-color: green;
+}
+td.r{
+    text-align: right;
+}
+tr:hover{
+    background-color: green;
+}
+p.um{
+    background-color: #242424;
+    color: white;
+}
+
+
+
